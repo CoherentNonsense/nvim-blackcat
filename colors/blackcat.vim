@@ -90,7 +90,7 @@ hi Boolean         ctermfg=Gray     ctermbg=Black    cterm=NONE    guifg=#8C8C8C
 hi Float           ctermfg=Gray     ctermbg=Black    cterm=NONE    guifg=#8C8C8C    guibg=#0D0D0D    gui=NONE
 
 hi Identifier      ctermfg=White    ctermbg=Black    cterm=NONE	   guifg=#F2F2F2    guibg=#0D0D0D    gui=NONE
-hi Function        ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#0D0D0D    gui=bold
+hi Function        ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#0D0D0D    gui=NONE
 
 " --------------------------------
 " Language constructs
